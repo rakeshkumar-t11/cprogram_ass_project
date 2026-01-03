@@ -1,1 +1,1 @@
-# cprogram_ass_project
+# cprogram_ass_practical
